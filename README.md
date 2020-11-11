@@ -1,2 +1,1 @@
-# MyHashMap.java
-![](https://github.com/iorgu12/MyHashMap.java/workflows/Java%20CI%20with%20Gradle/badge.svg)
+![Iorgu-HW3](https://github.com/iorgu12/MyHashMap.java/workflows/Iorgu-HW3/badge.svg)
